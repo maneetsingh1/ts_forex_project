@@ -1,0 +1,1 @@
+# ts_forex_project
