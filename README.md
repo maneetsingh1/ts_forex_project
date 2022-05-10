@@ -1,1 +1,2 @@
-# ts_forex_project
+# Analysis of Foreign Exchange Rates
+### Time Series Analysis and Forecasting
